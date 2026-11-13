@@ -35,8 +35,11 @@ Ví dụ định dạng đầu ra mong muốn:
 ## Bước 3: Lựa chọn và Chạy thử
 1. Phương án lựa chọn tối ưu nhất:Giải pháp 2 (Chi tiết)
 2. Lý do chọn:dù tốn nhiều token hơn .Giải pháp 2 ứng dụng đầy đủ khung CREATE giúp AI hiểu rõ vai trò và mục tiêu, kết hợp kỹ thuật Few-shot và các ràng buộc cứng (Constraints) giúp loại bỏ hoàn toàn các văn bản thừa
+
+Kết quả:
+
 |STT|	Tên Linh Kiện	Model| Đề Xuất	Giá Ước Tính|
-|---|---|---|
-|1|	CPU	AMD Ryzen 5 5600 (6 nhân 12 luồng, AM4)|	1.950.000 – 2.500.000 VNĐ|
-|2|	GPU (Card đồ họa)	AMD Radeon RX 6600 8GB GDDR6|	4.300.000 – 5.000.000 VNĐ|
-|3|	RAM	Kingston Fury Beast 16GB (2x8GB) DDR4 3200MHz|	1.000.000 – 1.300.000 VNĐ|
+|:---:|:---:|:---:|
+| 1 |	CPU	AMD Ryzen 5 5600 (6 nhân 12 luồng, AM4) |	1.950.000 – 2.500.000 VNĐ|
+| 2 |	GPU (Card đồ họa)	AMD Radeon RX 6600 8GB GDDR6 |	4.300.000 – 5.000.000 VNĐ|
+| 3 |	RAM	Kingston Fury Beast 16GB (2x8GB) DDR4 3200MHz |	1.000.000 – 1.300.000 VNĐ|
