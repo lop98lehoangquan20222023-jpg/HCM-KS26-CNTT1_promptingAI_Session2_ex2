@@ -21,11 +21,13 @@
 
 - [Few-shot Example]:
 Ví dụ định dạng đầu ra mong muốn:
+
 | STT | Tên Linh Kiện | Model Đề Xuất | Giá Ước Tính |
 |---|---|---|---|
 | 1 | CPU | AMD Ryzen 5 5600X | 3.500.000 VNĐ |
 
 ## Bước 2:
+
 |Tiêu chí |Giải pháp (đơn giản)|Giải pháp 2(chi tiết)|
 |---|---|---|
 |Độ dễ hiểu|Cao|trung bình|
